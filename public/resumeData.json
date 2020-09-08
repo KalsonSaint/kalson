@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name": "Ibe Stephen",
+    "occupation": "Frontend Developer",
+    "description": "Full Stack Developer ",
+    "image": "profile.png",
+    "bio": "I'm Ibe Stephen aka Kalson, a Frontend Engineer and Technical Writer based in Lagos, Nigeria. I’m passionate about making scalable and usable designs. A motivated, enthusiastic and well-organised developer, with a keen eye for beautiful design and fluent functionalty. I love reaching out to people who want to join the tech industry, helping out with resources and mentorship sessions. Away from my laptop, I play and teach the piano.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "saintkalson@gmail.com",
+    "phone": "+234 903 458 7133",
+    "address": {
+      "street": "Ikeja",
+      "city": "Lagos",
+      "state": "Nigeria",
+      "zip": ""
+    },
+    "website": "https://ibestephen.netlify.app/",
+    "resumedownload": "https://ibestephen.netlify.app/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kalson.saint",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ibestephen/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/saintkalson/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/KalsonSaint",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "What I've got to offer",
+    "education": [
+      {
+        "school": "MOUAU",
+        "degree": "Bachelors in Mechanical Engineering",
+        "graduated": "October 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Novaji Introserve",
+        "title": "Team Member && Backend Developer",
+        "years": "April 2020 - Present",
+        "description": "Write effectively and scalable algorithms for APIs."
+      },
+      {
+        "company": "Aptech Computer Education",
+        "title": "Senior Faculty",
+        "years": "Feb 2019 - March 2020",
+        "description": "Taught and Exposed students to Technologies and Programming Concepts."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "SCSS",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Xypo",
+        "category": "Education Website Landing Page built with HTML and CSS",
+        "image": "xypo.png",
+        "url": "https://kalsonsaint.github.io/xypo/"
+      },
+      {
+        "title": "Monster App",
+        "category": "App that enlists monsters with their images and names built with ReactJS and Fetch API",
+        "image": "monster.png",
+        "url": "https://kalsonsaint.github.io/wejapa-internship/"
+      },
+      {
+        "title": "Github Repo Finder",
+        "category": "Github Repository Finder built using HTML, CSS, Materialize and JavaScript",
+        "image": "repo.png",
+        "url": "https://kalsonsaint.github.io/RepoApp/"
+      },
+      {
+        "title": "Quiz App",
+        "category": "Quiz App built with HTML, CSS and JavaScript",
+        "image": "quiz.png",
+        "url": "https://kalsonsaint.github.io/Quiz-App/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Stephen is a very good team mate and friend. Articulate and well organized when it comes to achieveing targets and goals. His quest for knowledge has made him unique in his approach to problem solving.",
+        "user": "Lanre David"
+      },
+      {
+        "text": "Stephen aka Kalson is one of the most brilliant developers I've ever met! He is a team player with understanding and zeal for ",
+        "user": "Andino Inyang"
+      }
+    ]
+  }
+}
